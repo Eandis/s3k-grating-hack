@@ -17,6 +17,7 @@ for now theres:
 - 3. lava 2 starts before the tube after wrapping with monitor clip to practice stair clip
 - 69 lives by default
 - level select turned on by default
+- level select buttons are turned off (Except frame advance)
 
 THE OPTIONS ARE NOT BEING SAVED IN SRAM FOR THE TIME BEING!!!
 
