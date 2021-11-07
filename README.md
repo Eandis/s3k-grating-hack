@@ -23,7 +23,7 @@ THE OPTIONS ARE NOT BEING SAVED IN SRAM FOR THE TIME BEING!!!
 
 this hack is in early state and is buggy so um yeah any requests and bug reports are welcome
 
-about up b c teleportation:
+about up c b teleportation:
 for now it's only usable only in lr1 and de1. (even though you can still teleport on other levels but it will likely softlock you or smth... will fix later)
 in lr1 it sends you to the place before the bossfight to practice monitor clip
 in de1  it sends you to the wall you usually end up in after doing spike clip, theres also ring a little bit to the left of where you end up so you dont die after zipping out, (for graviton practice)
