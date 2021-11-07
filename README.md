@@ -38,3 +38,5 @@ to do:
 - fix lb1 mini boss balls
 - more quality of life and gameplay options
 
+![1](https://user-images.githubusercontent.com/54418889/140628985-6dd776d7-601d-4d0a-ab76-10d56e10bf9a.png)
+![2](https://user-images.githubusercontent.com/54418889/140628988-f4087570-c97e-4fcd-b05f-b269c26985e3.png)
