@@ -6,7 +6,7 @@ for now theres:
 - an option to get wheel glitch in cn2 starting from level select
 - an option to change the angle of the wheel glitch at the start of cn2 (either facing right or down)
 - remove time bonus option
-- teleportation to a certain place for practice by pressing UP, B, C (more on that later)
+- teleportation to a certain place for practice by pressing UP, C, B (more on that later)
 - an option to reduce fbz1 miniboss hitcount
 - lr1 mini boss (the hand) has 1 hit, will add an option to make it 6 some time later, also the 2 balls boss thing is a little bit buggy for some reason lol
 - screen shift and lightning shield in doomsday 2 (final fight) starting from level select (buggy and stupid for now but works for the time being)
@@ -26,7 +26,7 @@ about up b c teleportation:
 for now it's only usable only in lr1 and de1. (even though you can still teleport on other levels but it will likely softlock you or smth... will fix later)
 in lr1 it sends you to the place before the bossfight to practice monitor clip
 in de1  it sends you to the wall you usually end up in after doing spike clip, theres also ring a little bit to the left of where you end up so you dont die after zipping out, (for graviton practice)
-de1 teleport is also very buggy because of subpixels, so you may have to press teleport combo a few times. You have to press up and THEN b and THEN c, otherwise it won't work.
+de1 teleport is also very buggy because of subpixels, so you may have to press teleport combo a few times. You have to press up and THEN c and THEN b, otherwise it won't work.
 
 to do:
 start positions options
