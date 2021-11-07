@@ -30,11 +30,11 @@ in de1  it sends you to the wall you usually end up in after doing spike clip, t
 de1 teleport is also very buggy because of subpixels, so you may have to press teleport combo a few times. You have to press up and THEN c and THEN b, otherwise it won't work.
 
 to do:
-start positions options
-teleport destinations options
-fix doomsday 2
-saving options in sram
-make fb1 look better
-fix lb1 mini boss balls
-more quality of life and gameplay options
+- start positions options
+- teleport destinations options
+- fix doomsday 2
+- saving options in sram
+- make fb1 look better
+- fix lb1 mini boss balls
+- more quality of life and gameplay options
 
