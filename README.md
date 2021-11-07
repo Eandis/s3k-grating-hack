@@ -25,7 +25,7 @@ this hack is in early state and is buggy so um yeah any requests and bug reports
 about up b c teleportation:
 for now it's only usable only in lr1 and de1. (even though you can still teleport on other levels but it will likely softlock you or smth... will fix later)
 in lr1 it sends you to the place before the bossfight to practice monitor clip
-in de1  it sends you to the wall you usually end up in after doing spike clip, theres also ring a little bit to the left so you dont die after zipping out, for graviton practice)
+in de1  it sends you to the wall you usually end up in after doing spike clip, theres also ring a little bit to the left of where you end up so you dont die after zipping out, (for graviton practice)
 de1 teleport is also very buggy because of subpixels, so you may have to press teleport combo a few times. You have to press up and THEN b and THEN c, otherwise it won't work.
 
 to do:
