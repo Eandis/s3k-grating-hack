@@ -8,8 +8,8 @@ for now theres:
 - remove time bonus option
 - teleportation to a certain place for practice by pressing UP, C, B (more on that later)
 - an option to reduce fbz1 miniboss hitcount
-- lr1 mini boss (the hand) has 1 hit, will add an option to make it 6 some time later, also the 2 balls boss thing is a little bit buggy for some reason lol
-- screen shift and lightning shield in doomsday 2 (final fight) starting from level select (buggy and stupid for now but works for the time being)
+- lr1 mini boss is 1 hit now, will add an option to make it 6 some time later
+- screen shift and lightning shield in doomsday 2 (final fight) starting from level select
 - fire shield monitor at the start of sando 2 to practice fire shield route
 - new level start positions (will be able to change them in options in the future) - 
 - 1. mh2 starts in the ground to practice drop downs/zip (you can zip out to the right to practice glitchless but it breaks the pallete lol)
@@ -26,8 +26,7 @@ this hack is in early state and is buggy so um yeah any requests and bug reports
 about up c b teleportation:
 for now it's only usable only in lr1 and de1. (even though you can still teleport on other levels but it will likely softlock you or smth... will fix later)
 in lr1 it sends you to the place before the bossfight to practice monitor clip
-in de1  it sends you to the wall you usually end up in after doing spike clip, theres also ring a little bit to the left of where you end up so you dont die after zipping out, (for graviton practice)
-de1 teleport is also very buggy because of subpixels, so you may have to press teleport combo a few times. You have to press up and THEN c and THEN b, otherwise it won't work.
+in de1  it sends you to the spot after the zip. Mostly for graviton practice
 
 to do:
 - start positions options
@@ -35,7 +34,6 @@ to do:
 - fix doomsday 2
 - saving options in sram
 - make fb1 look better
-- fix lb1 mini boss balls
 - more quality of life and gameplay options
 
 ![1](https://user-images.githubusercontent.com/54418889/140628985-6dd776d7-601d-4d0a-ab76-10d56e10bf9a.png)
