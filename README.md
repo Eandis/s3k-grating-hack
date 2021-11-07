@@ -8,7 +8,7 @@ for now theres:
 - remove time bonus option
 - teleportation to a certain place for practice by pressing UP, B, C (more on that later)
 - an option to reduce fbz1 miniboss hitcount
-- lr1 mini boss (the hand) has 1 hit, will add an option to make it 6 some time later, also the 2 balls are a little bit buggy for some reason lol
+- lr1 mini boss (the hand) has 1 hit, will add an option to make it 6 some time later, also the 2 balls boss thing is a little bit buggy for some reason lol
 - screen shift and lightning shield in doomsday 2 (final fight) starting from level select (buggy and stupid for now but works for the time being)
 - fire shield monitor at the start of sando 2 to practice fire shield route
 - new level start positions (will be able to change them in options in the future) - 
