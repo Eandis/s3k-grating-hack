@@ -14,7 +14,7 @@ for now theres:
 - new level start positions (will be able to change them in options in the future) - 
 1. mh2 starts in the ground to practice drop downs/zip (you can zip out to the right to practice glitchless but it breaks the pallete lol)
 2. fbz1 starts right before the boss and theres a lightning shield for bottom route) (will look better in the future)
-3. lava 2 starts before the tube after wrapping with monitor clip to practice stair clip
+3. lava 2 starts before the tube end up in after wrapping with monitor clip to practice stair clip
 - 69 lives by default
 - level select is turned on by default
 - level select buttons are turned off (Except frame advance)
