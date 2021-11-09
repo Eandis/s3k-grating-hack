@@ -8,16 +8,17 @@ for now theres:
 - remove time bonus option
 - teleportation to a certain place for practice by pressing UP, C, B (more on that later)
 - an option to reduce fbz1 miniboss hitcount
-- lr1 mini boss is 1 hit now, will add an option to make it 6 some time later
+- an option to reduce lrz1 miniboss hitcount
 - screen shift and lightning shield in doomsday 2 (final fight) starting from level select
 - fire shield monitor at the start of sando 2 to practice fire shield route
 - new level start positions (will be able to change them in options in the future) - 
-- 1. mh2 starts in the ground to practice drop downs/zip (you can zip out to the right to practice glitchless but it breaks the pallete lol)
-- 2. fbz1 starts right before the boss and theres a lightning shield for bottom route) (will look better in the future)
-- 3. lava 2 starts before the tube after wrapping with monitor clip to practice stair clip
+1. mh2 starts in the ground to practice drop downs/zip (you can zip out to the right to practice glitchless but it breaks the pallete lol)
+2. fbz1 starts right before the boss and theres a lightning shield for bottom route) (will look better in the future)
+3. lava 2 starts before the tube after wrapping with monitor clip to practice stair clip
 - 69 lives by default
-- level select turned on by default
+- level select is turned on by default
 - level select buttons are turned off (Except frame advance)
+- level restart feature
 
 THE OPTIONS ARE NOT BEING SAVED IN SRAM FOR THE TIME BEING!!!
 
