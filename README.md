@@ -37,5 +37,5 @@ to do:
 - make fb1 look better
 - more quality of life and gameplay options
 
-![1](https://user-images.githubusercontent.com/54418889/140628985-6dd776d7-601d-4d0a-ab76-10d56e10bf9a.png)
-![2](https://user-images.githubusercontent.com/54418889/140628988-f4087570-c97e-4fcd-b05f-b269c26985e3.png)
+![1](https://user-images.githubusercontent.com/54418889/1406)
+![2](https://user-images.githubusercontent.com/54418889/140838071-a91b7b28-0a8c-4b02-9394-e221506b9dc9.png)
