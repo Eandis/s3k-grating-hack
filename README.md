@@ -1,5 +1,9 @@
 # s3k-grating-hack
 
+# ARCHIVED 
+# NEW ONE HERE: https://github.com/Eandis/s3k-grating-hack-rewrite
+
+
 s3k grating hack beta
 for now theres:
 - new options menu (in sound test)
